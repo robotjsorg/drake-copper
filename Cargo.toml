@@ -1,0 +1,11 @@
+[package]
+name = "drake-copper"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "A Rust project for CoM QP control using copper and totsu crates."
+license = "MIT"
+
+[dependencies]
+copper = "0.6"
+totsu = "0.7"
